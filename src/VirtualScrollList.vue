@@ -2,7 +2,7 @@
   <div class="app-container">
     <!-- 標題和統計信息 -->
     <header class="app-header">
-      <h1>Vue 3 優化版虛擬滾動列表</h1>
+      <h1>虛擬滾動列表</h1>
       <div class="stats">
         <span class="stat-item">
           總項目數: <strong>{{ allItems.length }}</strong>
